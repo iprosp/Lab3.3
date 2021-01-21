@@ -1,1 +1,1 @@
-Project for maven
+Project for maven with email notification.
